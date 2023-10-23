@@ -73,5 +73,5 @@ Enjoy exploring the world of data mining!
 
 If you have any questions or feedback, please contact the project contributors:
 
-- [Your Name](https://github.com/yourusername)
-- [Contributor's Name](https://github.com/contributorusername)
+- SivaKeshav Yalamandala(https://github.com/sky4320)
+- Jahnavi Nekkanti
